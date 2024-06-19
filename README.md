@@ -1,11 +1,20 @@
 # Pima Indian Diabetes Prediction
-The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. \
+The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 1. Importing and cleaning the data set
 2. Correlated Feature Check
-3. Check pairplot
-4. Check class distribution
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/1.png)
+4. Check pairplot
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/2.png)
+5. Check class distribution
   - Number of True cases:  268 (34.90%)
   - Number of False cases: 500 (65.10%)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/3.png)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/4.png)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/5.png)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/6.png)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/7.png)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/8.png)
+  - ![](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction/blob/5c42245caf50e6d091329f6d2e4f15f4ebf69644/Fig/9.png)
 6. Spliting the data
   - 70% for training, 30% for testing
 7. Training Initial Algorithm - Naive Bayes
